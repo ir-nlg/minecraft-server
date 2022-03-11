@@ -12,3 +12,5 @@ Jeder Ordner spiegelt eine Welt wider. Bevor der Server mit der `start.bat` gest
 
 Das Plugin muss für eine neue Labyrinth-Größe neu kompiliert werden.
 Programmcode von diesem ist hier zu finden: https://ir-nlg/minecraft-plugin.
+
+Es gibt bereits von mir fertig trainierte neuronale Netze in `/plugins/FacharbeitTest3`. Einfach eine `.nnet`-Datei in `currentnetwork.nnet` umbenennen und den Server neustarten, um dieses zu benutzen. 
