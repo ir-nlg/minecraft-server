@@ -1,7 +1,4 @@
-# minecraft-server
-Minecraft Server mit Plugin, Welten, trainierten neuronalen Netzwerken und Trainingsdaten.
-
-# minecraft-setup - Anhang zur Facharbeit
+# minecraft-server - Anhang zur Facharbeit
 ## Entwickeln einer künstlichen Intelligenz zum Lösen eines zufällig generierten Labyrinths in Minecraft
 
 ## Inhalt
